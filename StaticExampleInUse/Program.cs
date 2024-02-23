@@ -14,6 +14,8 @@
             Thread.Sleep(100);
             Order o3 = new Order();
             Console.WriteLine(o3.ToString());
+            Order o4= new Order();
+
             Console.ReadKey();
         }
     }
